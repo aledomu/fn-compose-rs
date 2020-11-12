@@ -1,0 +1,9 @@
+[package]
+name = "fn-compose"
+version = "0.0.1"
+authors = ["Alejandro Domínguez <adomu@net-c.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
